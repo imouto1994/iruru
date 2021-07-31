@@ -1,0 +1,4 @@
+node_modules/
+dist/
+cookies.json
+.DS_Store
